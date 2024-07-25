@@ -1,0 +1,29 @@
+{
+    "id": 5,
+    "image": "https://immutable.github.io/sample-project-metadata/tokens/token1.webp",
+    "token_id": "5",
+    "background_color": null,
+    "animation_url": null,
+    "youtube_url": null,
+    "name": "Magus Elrond",
+    "description": "A powerful human mage wielding arcane magic.",
+    "external_url": "https://hayesInc.com/magus",
+    "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Level",
+      "value": 50
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Alliance"
+    }
+    ]
+  }
