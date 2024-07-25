@@ -1,0 +1,13 @@
+/* styles.css */
+body {
+  font-family: sans-serif;
+  text-align: center;
+  margin: 20px;
+}
+
+#token-container {
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin: 20px auto;
+  width: 300px;
+}
